@@ -1,1 +1,59 @@
-# pro
+[ 
+    {
+        "id": 1,
+        "name": "Bayalagmaa",
+        "img": "https://www.instagram.com/p/BuxZrWWASAybuq-xmEGvvVtybG1S0bORvFmLVY0/",
+        "motto": "Peace begins with a smile",
+        "job": "Instrutor and PE trainer."
+    },
+    {
+        "id": 2,
+        "name": "Misheel",
+        "img": "https://www.instagram.com/p/BjzkI9WHLnY/",
+        "motto": "Peace begins with a smile",
+        "job": "Instrutor."
+    },
+    {
+        "id": 3,
+        "name": "Anu",
+        "img": "https://www.facebook.com/photo.php?fbid=2325173107743559&set=a.1377096692551210&type=3&theater",
+        "motto": "Peace begins with a smile",
+        "job": "Instrutor."
+    },
+    {
+        "id": 4,
+        "name": "Tugsbaysgalan",
+        "img": "https://www.instagram.com/p/Bn9Ik_cB9_PVOfjMzTTFjmj9Fl4RpiZk0tQgJI0/",
+        "motto": "Peace begins with a smile",
+        "job": "Instrutor."
+    },
+    {
+        "id": 5,
+        "name": "Tselmeg",
+        "img": "https://www.facebook.com/fcdmu2010/photos/t.100003150201332/1770082526556884/?type=3&theater",
+        "motto": "Peace begins with a smile",
+        "job": "Instrutor."
+    },
+    {
+        "id": 6,
+        "name": "Nambarjin",
+        "img": "https://www.facebook.com/fcdmu2010/photos/t.100003150201332/1770082526556884/?type=3&theater",
+        "motto": "Peace begins with a smile",
+        "job": "Instrutor."
+    },
+    {
+        "id": 7,
+        "name": "Tulgaa",
+        "img": "https://www.facebook.com/photo.php?fbid=736910196365044&set=a.109327815789955&type=3&theater",
+        "motto": "Peace begins with a smile",
+        "job": "Instrutor."
+    },
+    {
+        "id": 8,
+        "name": "Suh-Erdene",
+        "img": "https://www.facebook.com/photo.php?fbid=1202093286622423&set=picfp.100004652886474&type=3&theater",
+        "motto": "Peace begins with a smile",
+        "job": "Instrutor."
+    }
+
+]
